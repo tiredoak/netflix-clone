@@ -7,6 +7,12 @@
   z-index: 1;
   display: flex;
   justify-content: space-between;
+  /* Animations */
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.navbar__black {
   background-color: #111;
 }
 
