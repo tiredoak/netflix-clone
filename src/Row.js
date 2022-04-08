@@ -16,8 +16,6 @@ const Row = ({ title, fetchUrl, isLargeRow }) => {
     fetchData();
   }, [fetchUrl]);
 
-  console.table(movies);
-
   return (
     <div className='row'>
       <h2>{title}</h2>
