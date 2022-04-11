@@ -31,8 +31,7 @@
 
 ## About The Project
 
-<img src="images/netflix-clone-1.png" alt="drawing" width="500"/>
-<img src="images/netflix-clone-2.png" alt="drawing" width="500"/>
+<img src="assets/netflix.gif" alt="drawing" width="500"/>
 
 A simple Netflix clone built using React.js. Consists of the main home page for a user.
 
@@ -44,21 +43,6 @@ A simple Netflix clone built using React.js. Consists of the main home page for 
 - [TMDB](https://www.themoviedb.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-To run it the project locally, clone the repo and start it with `npm start`
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -74,6 +58,10 @@ This is an example of how to list things you need to use the software and how to
 4. Create a .env file and change its contents to
    ```sh
    REACT_APP_TMDB_KEY=YOUR_KEY_HERE;
+   ```
+5. Start the project with
+   ```sh
+   npm start
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
