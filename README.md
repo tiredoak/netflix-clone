@@ -31,7 +31,9 @@
 
 ## About The Project
 
+<div align="center">
 <img src="assets/netflix.gif" alt="drawing" width="500"/>
+</div>
 
 A simple Netflix clone built using React.js. Consists of the main home page for a user.
 
